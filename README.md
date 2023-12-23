@@ -1,6 +1,5 @@
 # Task-4--Create-a-Responsive-landing-page-using-HTML-CSS
 MentorAide Task 4-  Create a Responsive landing page using HTML CSS
-https://sagarjoshibit.github.io/Task-4--Create-a-Responsive-landing-page-using-HTML-CSS/
 # Screenshots
 ![image](https://github.com/SagarJoshiBit/Task-4--Create-a-Responsive-landing-page-using-HTML-CSS/assets/129649401/9244fa57-364f-4dde-9ea5-b6ddb5ede7c4)
 
